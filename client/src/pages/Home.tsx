@@ -504,6 +504,19 @@ export default function Home() {
                 Complementary stay for the Teacher or Organizer for groups over 20 people.
               </p>
             </div>
+
+            <div className="md:col-span-2 pt-8 border-t border-white/10">
+              <h3 className="font-serif text-2xl mb-4 text-gold">Group Booking Conditions</h3>
+              <ul className="space-y-4 text-white/80 font-light text-sm list-none">
+                <li className="flex gap-3"><span className="text-gold mt-0.5">•</span> <span>Pre-booking of dates can be granted for a 1-month period</span></li>
+                <li className="flex gap-3"><span className="text-gold mt-0.5">•</span> <span>Minimum stay: 5 nights</span></li>
+                <li className="flex gap-3"><span className="text-gold mt-0.5">•</span> <span>Deposit of 30% to confirm booking</span></li>
+                <li className="flex gap-3"><span className="text-gold mt-0.5">•</span> <span>Balance of 70% to be wired 1 month before arrival</span></li>
+                <li className="flex gap-3"><span className="text-gold mt-0.5">•</span> <span>A variation of 20% in the number of participants is allowed</span></li>
+                <li className="flex gap-3"><span className="text-gold mt-0.5">•</span> <span>In case of cancelation 60 days (or more) before the retreat, a voucher equivalent to the deposit will be issued and will be valid 12 months. The deposit is lost for any cancelation done less than 60 days before the retreat</span></li>
+                <li className="flex gap-3"><span className="text-gold mt-0.5">•</span> <span>Cases of force majeure are dealt on a case-by-case basis</span></li>
+              </ul>
+            </div>
           </div>
         </div>
       </section>
